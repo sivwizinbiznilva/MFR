@@ -1,10 +1,11 @@
 \documentclass{article}
 \usepackage{fancyhdr}
 \usepackage{tabu}
-\usepackage{geometry}
+\usepackage[bottom=1in]{geometry}
 \usepackage{multirow}
 \usepackage{graphicx}
 \usepackage{parskip}
+\usepackage{pdfpages}
 \setlength{\parindent}{15pt}
 
 %\pagestyle{fancy}
@@ -21,7 +22,7 @@
 	\end{tabu}
 
 %Start text here
-	\hfill 20 Sept 2013
+	\hfill 1 Oct 2013
 	\centerline{\LARGE{\textbf{Why Oxford?}}} \hspace{0pt} \\
 	\centerline{\Large{Captain Ryan Silva}}
 	\centerline{\large{Assistant Professor}}
@@ -37,7 +38,7 @@ As a project mentor for the FalconWorks-funded senior capstone project
 NeuMimic, I bring valuable experience leading a successful multi-disciplinary,
 systems-level biomedical engineering research project. I would come armed with 
 valuable leadership experience paired with technical expertise in signal processing and 
-embedded systems, thereby poised become immediate contributor.
+embedded systems, thereby poised become immediate contributor; more importantly, the director of OxCAHT, Dr. Gari Clifford, agrees with my assessment. Dr. Clifford, after a \emph{very} thorough Skype interview, offered to review a research proposal for appropriateness and feasibility of completion in 3 years. The signed MFR can be found in Attachment~\ref{sec:prop} on page~\pageref{sec:prop}. 
 It seems as though this opportunity was tailored to suit my strengths and interests! 
  
 There are few fields that offer more inspiring opportunities for systems-level 
@@ -135,4 +136,11 @@ Oxford Scholarship and the real winners are the cadets.
 
 Gus Jones!
 
+\newpage
+\section{Attachment - Approved Oxford Research Proposal}
+\label{sec:prop}
+\centering
+\includegraphics[scale=.85,clip=true,trim=1in .5in 1cm 0.5in]{MFR_ProposalforResearch_SilvaSIGNED.pdf}
+
+%\includepdf[scale=0.8,offset=-25 -25,pagecommand={\section{Attachment - Approved Oxford Research Proposal}\label{sec:prop}}]{MFR_ProposalforResearch_SilvaSIGNED.pdf}
 \end{document}

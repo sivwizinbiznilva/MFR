@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  1 OCT 2013 09:18
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  1 OCT 2013 13:28
 entering extended mode
 **MFR.tex
 (C:\Users\ryan.silva\Documents\GitHub\MFR\MFR.tex
@@ -145,19 +145,63 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 (C:\MiKTeX\tex\latex\ltxmisc\parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
+(C:\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+ (C:\MiKTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\MiKTeX\tex\latex\tools\calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count98
+\calc@Bcount=\count99
+\calc@Adimen=\dimen127
+\calc@Bdimen=\dimen128
+\calc@Askip=\skip55
+\calc@Bskip=\skip56
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count100
+\calc@Cskip=\skip57
+) (C:\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+(C:\MiKTeX\tex\generic\oberdiek\atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+(C:\MiKTeX\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+ (C:\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)) (C:\MiKTeX\tex\latex\pdfpages\pppdftex.def
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box31
+\AM@toc@title=\toks19
+\c@AM@survey=\count101
+\AM@templatesizebox=\box32
+)
 (C:\Users\ryan.silva\Documents\GitHub\MFR\MFR.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -168,11 +212,11 @@ LaTeX Font Info:    ... okay on input line 12.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
-* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* v-part:(T,H,B)=(95.39737pt, 627.30263pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=430.00462pt
-* \textheight=556.47656pt
+* \textheight=627.30263pt
 * \oddsidemargin=19.8752pt
 * \evensidemargin=19.8752pt
 * \topmargin=-13.87262pt
@@ -195,40 +239,41 @@ LaTeX Font Info:    ... okay on input line 12.
 
 (C:\MiKTeX\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count98
-\scratchdimen=\dimen127
-\scratchbox=\box31
-\nofMPsegments=\count99
-\nofMParguments=\count100
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count101
-\MPscratchDim=\dimen128
-\MPnumerator=\count102
-\makeMPintoPDFobject=\count103
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count102
+\scratchdimen=\dimen129
+\scratchbox=\box33
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen130
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks21
 )
+\AtBeginShipoutBox=\box34
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 14.
+(Font)              <7> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 14.
+(Font)              <5> on input line 15.
  <DOD.jpg, id=1, 225.84375pt x 224.84pt> <use DOD.jpg>
 <USAFA.png, id=2, 292.09125pt x 281.05pt> <use USAFA.png> <use DOD.jpg>
 <use USAFA.png>
 File: DOD.jpg Graphic file (type jpg)
  <use DOD.jpg>
-Package pdftex.def Info: DOD.jpg used on input line 21.
+Package pdftex.def Info: DOD.jpg used on input line 22.
 (pdftex.def)             Requested size: 54.2025pt x 53.95926pt.
 File: USAFA.png Graphic file (type png)
  <use USAFA.png>
-Package pdftex.def Info: USAFA.png used on input line 21.
+Package pdftex.def Info: USAFA.png used on input line 22.
 (pdftex.def)             Requested size: 54.2025pt x 52.1521pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--42
+Underfull \hbox (badness 10000) in paragraph at lines 25--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--42
+Underfull \hbox (badness 10000) in paragraph at lines 25--43
 
  []
 
@@ -236,23 +281,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--42
 
 {C:/Users/ryan.silva/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Use
 rs/ryan.silva/Documents/GitHub/MFR/DOD.jpg> <C:/Users/ryan.silva/Documents/GitH
-ub/MFR/USAFA.png>] [2] [3] (C:\Users\ryan.silva\Documents\GitHub\MFR\MFR.aux) )
- 
+ub/MFR/USAFA.png>] [2]
+<MFR_ProposalforResearch_SilvaSIGNED.pdf, id=18, 614.295pt x 794.97pt>
+File: MFR_ProposalforResearch_SilvaSIGNED.pdf Graphic file (type pdf)
+
+<use MFR_ProposalforResearch_SilvaSIGNED.pdf>
+Package pdftex.def Info: MFR_ProposalforResearch_SilvaSIGNED.pdf used on input 
+line 143.
+(pdftex.def)             Requested size: 436.5385pt x 620.4413pt.
+
+Overfull \hbox (6.53387pt too wide) in paragraph at lines 143--144
+ [] 
+ []
+
+
+Overfull \vbox (22.84142pt too high) has occurred while \output is active []
+
+
+[3 <C:/Users/ryan.silva/Documents/GitHub/MFR/MFR_ProposalforResearch_SilvaSIGNE
+D.pdf>] (C:\Users\ryan.silva\Documents\GitHub\MFR\MFR.aux) ) 
 Here is how much of TeX's memory you used:
- 2546 strings out of 493921
- 33865 string characters out of 3154485
- 101621 words of memory out of 3000000
- 5848 multiletter control sequences out of 15000+200000
- 5150 words of font info for 19 fonts, out of 3000000 for 9000
+ 3784 strings out of 493921
+ 51230 string characters out of 3154485
+ 127430 words of memory out of 3000000
+ 7057 multiletter control sequences out of 15000+200000
+ 5803 words of font info for 21 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,15n,43p,235b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmbx12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-<C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr5.pfb>
-Output written on MFR.pdf (3 pages, 157322 bytes).
+ 37i,15n,43p,421b,431s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmbx10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5
+.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on MFR.pdf (3 pages, 717698 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
+ 46 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 22 words of extra memory for PDF output out of 10000 (max. 10000000)
 
