@@ -1,21 +1,14 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.9.16)  2 OCT 2013 18:09
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  2 OCT 2013 21:39
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **DFER_email.tex
-(C:\Users\ryan.silva\Documents\GitHub\MFR\DFER_email.tex
+(./DFER_email.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-(C:\MiKTeX\tex\latex\base\article.cls
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(C:\MiKTeX\tex\latex\base\size10.clo
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -30,22 +23,22 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\MiKTeX\tex\latex\geometry\geometry.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(C:\MiKTeX\tex\latex\graphics\keyval.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(C:\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(C:\MiKTeX\tex\generic\oberdiek\ifvtex.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(C:\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+(/usr/local/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -60,17 +53,19 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
-
-(C:\MiKTeX\tex\latex\geometry\geometry.cfg)) (C:\MiKTeX\tex\latex\tabu\tabu.sty
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tabu/tabu.sty
 Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
-(C:\MiKTeX\tex\latex\tools\array.sty
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen111
 \extrarowheight=\dimen112
 \NC@list=\toks16
 \extratabsurround=\skip43
 \backup@length=\skip44
-) (C:\MiKTeX\tex\latex\ltxmisc\varwidth.sty
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box26
 \sift@deathcycles=\count90
@@ -99,7 +94,10 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabu@hleads=\box29
 \tabu@vleads=\box30
 \tabu@cellskip=\skip45
-) (C:\Users\ryan.silva\Documents\GitHub\MFR\DFER_email.aux)
+)
+(./DFER_email.aux)
+\openout1 = `DFER_email.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
@@ -218,7 +216,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--62
 
 [1
 
-{C:/Users/ryan.silva/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
@@ -338,21 +336,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 144--149
 
  []
 
-[3] (C:\Users\ryan.silva\Documents\GitHub\MFR\DFER_email.aux) ) 
+[3] (./DFER_email.aux) ) 
 Here is how much of TeX's memory you used:
- 1523 strings out of 493921
- 20820 string characters out of 3154485
- 82400 words of memory out of 3000000
- 4867 multiletter control sequences out of 15000+200000
- 4255 words of font info for 16 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 24i,13n,23p,224b,328s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmbx10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on DFER_email.pdf (3 pages, 56279 bytes).
+ 1517 strings out of 493315
+ 21155 string characters out of 6137904
+ 86134 words of memory out of 5000000
+ 5022 multiletter control sequences out of 15000+600000
+ 4255 words of font info for 16 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 24i,13n,23p,223b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb>
+Output written on DFER_email.pdf (3 pages, 53722 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
+ 17 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
