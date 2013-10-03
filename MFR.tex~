@@ -37,9 +37,14 @@ university in the world with whom my research aspirations can be accomplished.
 As a project mentor for the FalconWorks-funded senior capstone project
 NeuMimic, I bring valuable experience leading a successful multi-disciplinary,
 systems-level biomedical engineering research project. I would come armed with 
-valuable leadership experience paired with technical expertise in signal processing and 
-embedded systems, thereby poised become immediate contributor; more importantly, the director of OxCAHT, Dr. Gari Clifford, agrees with my assessment. Dr. Clifford, after a \emph{very} thorough Skype interview, offered to review a research proposal for appropriateness and feasibility of completion in 3 years. The signed MFR can be found in Attachment~\ref{sec:prop} on page~\pageref{sec:prop}. 
-It seems as though this opportunity was tailored to suit my strengths and interests! 
+valuable leadership experience paired with technical expertise in signal 
+processing and embedded systems, thereby poised to become an immediate contributor;
+it is important to note that the director of OxCAHT, Dr. Gari Clifford, agrees
+with my assessment. Dr. Clifford, after a \emph{very} thorough Skype interview,
+offered to review a research proposal for appropriateness and feasibility of
+completion in 3 years. The signed MFR can be found in Attachment~\ref{sec:prop}
+on page~\pageref{sec:prop}. It seems as though this opportunity was tailored to 
+suit my strengths and interests! 
  
 There are few fields that offer more inspiring opportunities for systems-level 
 research as biomedical engineering, especially the field of diagnostics.
@@ -61,8 +66,8 @@ shortfall, creating a novel solution to fill the need as well as conducting
 clinical trials all within the standard 3 year time frame necessary to 
 complete the degree. There is simply no other place on earth where research of
 this type can progress from idea to human trials within this relatively short
-time frame. While it is important to emphasize that this is exciting research, it is also
-important to highlight where USAFA Cadets fit in.
+time frame. While it is important to emphasize that this is exciting research,
+it is also important to highlight where USAFA Cadets fit in.
  
 OxCAHT follows a research model based on the mission of Engineering World
 Health ``to inspire and mobilize the biomedical engineering community to improve
@@ -96,9 +101,10 @@ where they will be administered to real patients by Oxford researchers.
 
 Developing a research partnership between Oxford and USAFA based on open-source
 technology is a relatively simple process to navigate, in fact I already have.
-I have garnered approvals through Col Kraus (USAFA Office of Research) and the
-USAFA Judge Advocate for the research partnership I have proposed (the signed
-MFR can be found in Attachment 1). Oxford-level research opportunities can
+I have garnered approvals through Col Kraus, USAFA Office of Research, and the
+USAFA Judge Advocate for the research partnership I have proposed (the
+approvals can be found in Attachments 2 and 3
+accordingly). Oxford-level research opportunities can
 exist at USAFA, not as an arcane future promise, but as a detailed plan that
 begins with choosing me for the Dean's Oxford Scholarship. Not only am I the
 best candidate to develop and pursue these exciting research opportunities, I
@@ -131,16 +137,25 @@ and 2013 selected me to be a part of the zenith of their USAFA careers and the
 arbiter that bestows upon them the prize for which they have worked so hard.
 Ultimately my personal commitment to the USAFA Mission has been recognized by
 my fellow faculty and endorsed by cadets, whose interests USAFA exists to
-serve. Choose me for the Dean's
-Oxford Scholarship and the real winners are the cadets.
+serve. Choose me for the Dean's Oxford Scholarship and the real winners are the
+cadets.
 
 Gus Jones!
 
 \newpage
-\section{Attachment - Approved Oxford Research Proposal}
+\section*{Attachment 1 - Approved Oxford Research Proposal}
 \label{sec:prop}
 \centering
-\includegraphics[scale=.85,clip=true,trim=1in .5in 1cm 0.5in]{MFR_ProposalforResearch_SilvaSIGNED.pdf}
+\includegraphics[scale=.85,clip=true,trim=1in .5in 1cm 0.4in]{MFR_ProposalforResearch_SilvaSIGNED.pdf}
+
+%\newpage
+%\section*{Attachment 2 - DF Research Office Approval to Conduct Research}
+%\label{sec:DFER}
+%\centering
+\includepdf[pages=-,scale=0.8,offset=-25 -25,pagecommand={\section*{\raggedright Attachment 2 - DFER Approval to Conduct Research}}]{DFER_email.pdf}
+\includepdf[pages=-,scale=0.8,offset=-25 -25,pagecommand={\section*{\raggedright Attachment 3 - USAFA Judge Advocate Approval to Conduct Research}}]{email.pdf}
+%\label{sec:JA}
 
 %\includepdf[scale=0.8,offset=-25 -25,pagecommand={\section{Attachment - Approved Oxford Research Proposal}\label{sec:prop}}]{MFR_ProposalforResearch_SilvaSIGNED.pdf}
+
 \end{document}
