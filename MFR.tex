@@ -154,8 +154,12 @@ cadets.
 
 Gus Jones!
 
+\renewcommand\contentsname{Attachments}\tableofcontents
+
 \newpage
 \section*{Attachment 1 \newline Approved Oxford Research Proposal}
+\addcontentsline{toc}{section}{Attachment 1 - Approved Oxford Research
+Proposal}
 \label{sec:prop}
 \centering
 \vspace{-5mm}
@@ -163,6 +167,8 @@ Gus Jones!
 
 \newpage
 \section*{\raggedright Attachment 2 \newline DF Research Office Approval to Conduct Research}
+\addcontentsline{toc}{section}{Attachment 2 - DF Research Office Approval to
+Conduct Research}
 \label{sec:DFER}
 \centering
 \vspace{-1cm}
@@ -170,25 +176,27 @@ Gus Jones!
 \includepdf[pages=2-3,scale=0.85,offset=-0 -25,pagecommand={}]{DFER_email.pdf}
 \newpage
 \section*{\raggedright Attachment 3 \newline USAFA Judge Advocate Approval to Conduct Research}
+\addcontentsline{toc}{section}{Attachment 3 - USAFA Judge Advocate Approval to
+Conduct Research}
 \label{sec:JA}
 \centering
 \vspace{-0.1cm}
-\hspace*{-1.5cm}\includegraphics[scale=.85]{email.pdf}
+\hspace*{-1.5cm}
+\includegraphics[scale=.85]{email.pdf}
 \includepdf[pages=2,scale=0.85,offset=-0 -25,pagecommand={}]{email.pdf}
 \section*{\raggedright Attachment 4 \newline May 2012 - May 2013 OPR}
+\addcontentsline{toc}{section}{Attachment 4 - OPR May 2012 - May 2013}
 \centering
-\vspace{-1cm}
-\hspace*{-1.5cm}
-%\includegraphics[scale=.65]{OPR2012-2013f}
+\includegraphics[scale=.63]{OPR2012-2013f}
 \newpage
-%\includegraphics[scale=.65]{OPR2012-2013b}
-%\label{sec:JA}
+\includegraphics[scale=.65]{OPR2012-2013b}
+\label{sec:OPR2012}
 \newpage
 \section*{\raggedright Attachment 5 \newline May 2011 - May 2012 OPR}
+\addcontentsline{toc}{section}{Attachment 5 - OPR May 2011 - May 2012}
 \centering
-\vspace{-1cm}
-\hspace*{-1.5cm}
-\includegraphics[scale=.65]{OPR2011-2012f}
+\centering
+\includegraphics[scale=.63]{OPR2011-2012f}
 \newpage
 \includegraphics[scale=.65]{OPR2011-2012b}
 
